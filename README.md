@@ -1,2 +1,2 @@
-# ptx-cloud-scan-splitter
+# PTX point cloud splitter (by scans)
 Split PTX file into individual scans
