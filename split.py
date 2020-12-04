@@ -179,7 +179,6 @@ def handle_scan(command: str, ptx_file: str, target_folder: str):
 
 
 def main():
-    print('priv')
     args = parse_cmd()
     handle_scan(args.command, args.ptx_file[0], args.target_folder)
 
